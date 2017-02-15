@@ -1,0 +1,31 @@
+{
+    "name": "rsiripong/yii2-mapprovince",
+    "description": "  ",
+    "keywords": [
+        "yii2",
+        "extension",
+        "bootstrap"
+    ],
+    "homepage": "http://github.com/rsiripong/yii2-mapprovince",
+    "type": "yii2-extension",
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "siripong rungsang",
+            "email": "siripong.rungsang@gmail.com",
+            "homepage": "http://www.m108.com/"
+        }
+    ],
+    "require": {
+      
+    },
+    "autoload": {
+        "psr-4": {
+            "rsiripong\\mapprovince\\": ""
+        }
+       
+    },
+    "extra": {
+       
+    }
+}
